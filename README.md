@@ -18,7 +18,7 @@ I'm a student<br>I'm studying at a vocational school<br>majoring in Software Eng
 ---
 [![](https://visitcount.itsvg.in/api?id=this-is-iski&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://raw.githubusercontent.com/this-is-iski/this-is-iski/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
